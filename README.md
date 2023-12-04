@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m Faiz
 - 💼 I'm a Full Stack Developer
-- 🌱 Learning and implementing projects using Golang and AWS services 🤵🏻 <br/>
+- 🌱 Learning and implementing projects using Golang, JAVA, React/React Native, Nextjs, Flutter 🤵🏻 <br/>
 - 💬 Talk to me about freelancing opportunities in any stack
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
 
