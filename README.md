@@ -135,13 +135,13 @@ collaboration on every interesting project/stuff ✌🏻<br />
 <br />
 
 ## Popular Projects
-<a href="[https://github.com/faizshaikh7/stremoo">
+<a href="https://github.com/faizshaikh7/stremoo">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center"
         src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=faizhshaikh7&repo=stremoo&theme=onedark" />
 </a>
 
-<a href="[https://github.com/faizshaikh7/easer-device-web">
+<a href="https://github.com/faizshaikh7/easer-device-web">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center"
         src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=faizhshaikh7&repo=easer-device-web&theme=onedark" />
