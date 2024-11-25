@@ -127,22 +127,22 @@ collaboration on every interesting project/stuff ✌🏻<br />
 <details>
     <summary><b>⚡ Recent GitHub Activity</b></summary>
     <br />
-    <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph"
-            src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a href="https://github.com/faizshaikh7"><img alt="Faiz's Activity Graph"
+            src="https://activity-graph.herokuapp.com/graph?username=faizshaikh7&custom_title=Faiz's%20Contribution%20Graph&theme=react-dark" /></a>
     <br />
 </details>
 
 <br />
 
 ## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+<a href="[https://github.com/faizshaikh7/stremoo">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center"
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=faizhshaikh7&repo=stremoo&theme=onedark" />
 </a>
 
-<a href="https://github.com/aastha12/Loan_Prediction">
+<a href="[https://github.com/faizshaikh7/easer-device-web">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center"
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=faizhshaikh7&repo=easer-device-web&theme=onedark" />
 </a>
