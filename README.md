@@ -11,7 +11,7 @@
             alt="Typing SVG" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/faiz-shaikh-43b323228/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-faiz-43b323228/" target="_blank">
     <img alt="LinkedIn"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
